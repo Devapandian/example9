@@ -1,0 +1,129 @@
+.icon-bar {
+    width: 250px;
+    background-color:#FFFFFF;
+    height:650px;
+    border-radius: 20px;
+    margin: 10px 20px 15px;
+  }
+  
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 30px;
+    color:Purple;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 5px;
+    
+  }
+  .row{
+    display:flex;
+    width:1200px;
+    background-color: #F3F3F3;
+
+
+  }
+  table {
+    font-family: arial, sans-serif;
+    width: 90%;
+    text-align: center;
+    height:5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+  }
+  
+  td, th {
+    border: 1px solid white;
+    border-radius: 5%;
+    text-align: left;
+    padding: 10px;
+    border-collapse: collapse;
+    width:10;
+  }
+.split right{
+display:flex;
+padding-left: 30px;
+margin-left: 20px;
+flex-direction: column;
+width:90%;
+margin-right: 10px;
+}
+.split left{
+flex-direction:column;
+display:flex;
+margin-right: 10px;
+
+}
+.container{
+    background-color: #F3F3F3;
+}
+.col{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+
+}
+.col1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
+
+#Data{
+    width:250px;
+    height:30px;
+    border-radius: 50px;
+gap:20px;
+}
+#Period{
+    width:250px;
+    height:30px;
+    border-radius: 50px;
+
+}
+#Project{
+    width:250px;
+    height:30px;
+    border-radius: 50px;
+}
+.icon{
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-top: 80px;
+}
+.col2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+
+}
+#myButton{
+  border:none;
+  background-color: inherit;
+  display:inline-block;
+  text-align: center;
+  justify-content: center;
+}
